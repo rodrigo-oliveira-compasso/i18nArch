@@ -1,0 +1,14 @@
+{
+	"app": {
+		"header":{
+            "label": "Internationalization and Localization"
+        },
+        "dropdown":{
+            "label": "Languages",
+            "languages": {
+                "portuguese": "Portuguese",
+                "english": "English"
+            }
+        }
+	}
+}
