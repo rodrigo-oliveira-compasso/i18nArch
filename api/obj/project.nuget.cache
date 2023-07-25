@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0PArGJTRKKEu8whVZIh2oqK2ul62HTkhvFHQYdQmX4nvcLmmuhLyOfd9kSrf9mUegDVVfvXirsQSfVnJWVezPA==",
+  "dgSpecHash": "MYZEMlRf0mYogxiAx+5gZX5H4aPL45mBgW/NhhVHBvA3KwQUS/Tpxr72vmZWGzOpdR8GH497tUOgnybt0xpkig==",
   "success": true,
-  "projectFilePath": "c:\\Projects\\Arch\\i18nArch\\api\\api.csproj",
+  "projectFilePath": "C:\\Projects\\Arch\\i18nArch\\api\\api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rodrigo.oliveira\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.9\\microsoft.aspnetcore.openapi.7.0.9.nupkg.sha512",
     "C:\\Users\\rodrigo.oliveira\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

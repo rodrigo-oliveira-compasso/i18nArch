@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Projects\\Arch\\i18nArch\\api\\api.csproj": {}
+    "C:\\Projects\\Arch\\i18nArch\\api\\api.csproj": {}
   },
   "projects": {
-    "c:\\Projects\\Arch\\i18nArch\\api\\api.csproj": {
+    "C:\\Projects\\Arch\\i18nArch\\api\\api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Projects\\Arch\\i18nArch\\api\\api.csproj",
+        "projectUniqueName": "C:\\Projects\\Arch\\i18nArch\\api\\api.csproj",
         "projectName": "api",
-        "projectPath": "c:\\Projects\\Arch\\i18nArch\\api\\api.csproj",
+        "projectPath": "C:\\Projects\\Arch\\i18nArch\\api\\api.csproj",
         "packagesPath": "C:\\Users\\rodrigo.oliveira\\.nuget\\packages\\",
-        "outputPath": "c:\\Projects\\Arch\\i18nArch\\api\\obj\\",
+        "outputPath": "C:\\Projects\\Arch\\i18nArch\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rodrigo.oliveira\\AppData\\Roaming\\NuGet\\NuGet.Config"

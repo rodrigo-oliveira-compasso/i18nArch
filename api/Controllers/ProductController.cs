@@ -13,7 +13,7 @@ public class ProductController : ControllerBase
     {
     }
 
-    [HttpGet(Name = "GetProducts")]
+    [HttpGet(Name = "GetProducts")]    
     public List<Product> GetProducts(string lang)
     {
         ProductService service = new();
