@@ -11,7 +11,7 @@ export class AppComponent implements OnInit {
   title = 'app';
   products: any[] = [];
 
-  constructor(private appService: AppService, private translate: TranslateService) {
+  constructor( private translate: TranslateService, private appService: AppService) {
     translate.setDefaultLang('pt-BR');
     translate.use('pt-BR');
   }
